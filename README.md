@@ -34,7 +34,7 @@ npm run build
 项目中使用到了 BetterScroll 和 Vant 组件库，其中使用了 Swipe 轮播组件、Tabbar 标签栏组件、Toast 轻提示组件和 Dialog 弹出框组件。
 
 ## 效果展示
-<img src="https://s3.bmp.ovh/imgs/2021/08/efc3b6730ef423a0.jpg" alt="a" style="zoom:33%;" />
+<img src="https://s3.bmp.ovh/imgs/2021/08/efc3b6730ef423a0.jpg" alt="a" width="375" />
 
 ![](https://s3.bmp.ovh/imgs/2021/08/2e1851a8ea0615c5.jpg)
 
