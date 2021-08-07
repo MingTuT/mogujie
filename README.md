@@ -35,7 +35,7 @@ npm run build
 
 ## 效果展示
 
-![](https://s3.bmp.ovh/imgs/2021/08/efc3b6730ef423a0.jpg){:height="50%" width="50%"}
+![](https://s3.bmp.ovh/imgs/2021/08/efc3b6730ef423a0.jpg)
 
 ![](https://s3.bmp.ovh/imgs/2021/08/2e1851a8ea0615c5.jpg)
 
